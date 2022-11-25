@@ -1,0 +1,41 @@
+body{
+	background-image: url('images/background.jpg');
+	background-size: 100%;
+}
+header{
+	font-size: 75px;
+   color: #DBEDF3;
+   font-family: "Arvo", cursive;
+   text-shadow: 3px 0 #DA0463;
+   text-align: center;
+   padding: 50px;
+}
+.set{
+display: inline-block;
+}
+.wdrum{
+   background-color: green; 
+}
+.adrum{
+ background-color: red;
+}
+footer {
+   color: #DBEDF3;
+   font-family: "Arvo", cursive;
+   text-shadow: 3px 0 #DA0463;
+   padding: 50px;
+}
+button{
+	width: 150px;
+	height: 150px;
+	color:black;
+	font-size: 50px;
+	border-radius: 20px; 
+	margin: 10px;
+}
+button:hover{
+	color: red;
+}
+section{
+	padding:50px;
+}
